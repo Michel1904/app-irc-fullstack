@@ -98,15 +98,3 @@ Pour déployer cette application en ligne, nous avons utilisé **Render** pour h
 
 - Le backend FastAPI est déployé sur Render à l'adresse [backend-ta25.onrender.com](https://backend-ta25.onrender.com).
 - Le frontend Streamlit est déployé à l'adresse [frontend-xi4d.onrender.com/](https://frontend-xi4d.onrender.com/).
-
-### Explication du fichier README :
-
-1. **Introduction claire** sur le but du projet et les technologies utilisées.
-2. **Structure du projet** pour aider à comprendre l'organisation des dossiers.
-3. **Liens déployés** pour l'accès rapide à l'interface et à l'API.
-4. **Instructions d'utilisation** détaillées pour l'utilisateur final.
-5. **Prérequis** et **installation en local** pour ceux qui souhaitent tester le projet localement.
-6. **Déploiement** pour ceux qui souhaitent comprendre comment le projet a été mis en ligne.
-7. **Crédits** et **licence** pour donner la reconnaissance appropriée et préciser la licence d'utilisation.
-
-Il te suffit de copier ce contenu dans un fichier `README.md` et de le pousser sur ton dépôt GitHub. Cela donnera une documentation claire et professionnelle à ton projet !
